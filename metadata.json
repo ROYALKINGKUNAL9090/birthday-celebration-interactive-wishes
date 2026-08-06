@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Celebration Interactive Wishes",
+  "description": "An interactive, animated birthday website featuring photo upload, candle blowing, floating balloons, customizable wishes, synthesized background music, and gift unboxing.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
